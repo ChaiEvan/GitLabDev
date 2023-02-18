@@ -1,0 +1,1 @@
+define a uefi based Risc-V interrupted map.
