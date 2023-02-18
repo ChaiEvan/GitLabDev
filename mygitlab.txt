@@ -8,3 +8,4 @@ This is my first git new file. hot-fixe test2.
 master add its new info to the end.
 leaf01 add new info.
 leaf01 want to add something different, C3. 
+leaf02 changed one line as C7.
